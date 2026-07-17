@@ -209,6 +209,12 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+
+data/raw/
+*.pbix.tmp
+.ipynb_checkpoints/
+
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
